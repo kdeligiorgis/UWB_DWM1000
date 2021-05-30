@@ -1,6 +1,6 @@
 # UWB_DWM1000 
 
-Create a Real Time Location System (RTLS) using UWB technology, via DWM1000 transceivers from DecaWave and STM32 microcontrollers
+Creating a Real Time Location System (RTLS) using UWB technology, via DWM1000 transceivers from DecaWave and STM32 microcontrollers in custom board.
 
 ## Examples 
 
