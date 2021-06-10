@@ -11,8 +11,8 @@ Creating a Real Time Location System (RTLS) using UWB technology, via DWM1000 tr
 - SS_TWR_Complete
 
 ## Trilateration
-At file Trilateration_Code.ipynb is the code for Trilateration and to save our results.
-In folder Trilateration you will find our measurements and the results.
+- At file Trilateration_Code.ipynb is the code for Trilateration and to save our results.
+- In folder Trilateration you will find our measurements and the results.
 
 
 
