@@ -1,0 +1,287 @@
+DIST A: 0.98 m 
+
+DIST B: 8.15 m 
+
+DIST C: 10.03 m 
+
+DIST A: 1.73 m 
+
+DIST B: 7.81 m 
+
+DIST C: 9.47 m 
+
+DIST A: 2.56 m 
+
+DIST B: 7.45 m 
+
+DIST C: 8.80 m 
+
+DIST A: 3.79 m 
+
+DIST B: 6.54 m 
+
+DIST C: 7.47 m 
+
+DIST A: 4.33 m 
+
+DIST B: 5.35 m 
+
+DIST C: 6.68 m 
+
+DIST A: 4.57 m 
+
+DIST B: 4.55 m 
+
+DIST C: 6.39 m 
+
+DIST A: 5.28 m 
+
+DIST B: 3.67 m 
+
+DIST C: 5.81 m 
+
+DIST A: 5.88 m 
+
+DIST B: 4.73 m 
+
+DIST C: 5.31 m 
+
+DIST A: 6.36 m 
+
+DIST B: 4.85 m 
+
+DIST C: 4.81 m 
+
+DIST A: 7.23 m 
+
+DIST B: 4.38 m 
+
+DIST C: 4.05 m 
+
+DIST A: 7.53 m 
+
+DIST B: 3.15 m 
+
+DIST C: 3.44 m 
+
+DIST A: 6.83 m 
+
+DIST B: 2.75 m 
+
+DIST C: 4.36 m 
+
+DIST A: 7.23 m 
+
+DIST B: 1.86 m 
+
+DIST C: 4.46 m 
+
+DIST A: 8.73 m 
+
+DIST B: 1.11 m 
+
+DIST C: 3.56 m 
+
+DIST A: 9.59 m 
+
+DIST B: 1.46 m 
+
+DIST C: 3.85 m 
+
+DIST A: 11.23 m 
+
+DIST B: 2.76 m 
+
+DIST C: 2.54 m 
+
+DIST A: 10.59 m 
+
+DIST B: 2.86 m 
+
+DIST C: 1.58 m 
+
+DIST A: 10.86 m 
+
+DIST B: 3.36 m 
+
+DIST C: 0.83 m 
+
+DIST A: 9.24 m 
+
+DIST B: 2.17 m 
+
+DIST C: 2.39 m 
+
+DIST A: 8.25 m 
+
+DIST B: 2.55 m 
+
+DIST C: 2.69 m 
+
+DIST A: 8.08 m 
+
+DIST B: 3.32 m 
+
+DIST C: 2.96 m 
+
+DIST A: 6.19 m 
+
+DIST B: 3.84 m 
+
+DIST C: 3.91 m 
+
+DIST A: 4.24 m 
+
+DIST B: 5.17 m 
+
+DIST C: 4.79 m 
+
+DIST A: 5.48 m 
+
+DIST B: 4.52 m 
+
+DIST C: 5.36 m 
+
+DIST A: 5.04 m 
+
+DIST B: 7.46 m 
+
+DIST C: 8.63 m 
+
+DIST A: 4.49 m 
+
+DIST B: 6.81 m 
+
+DIST C: 8.33 m 
+
+DIST A: 3.18 m 
+
+DIST B: 6.02 m 
+
+DIST C: 5.06 m 
+
+DIST A: 4.27 m 
+
+DIST B: 4.92 m 
+
+DIST C: 4.11 m 
+
+DIST A: 5.57 m 
+
+DIST B: 3.90 m 
+
+DIST C: 3.67 m 
+
+DIST A: 6.27 m 
+
+DIST B: 3.36 m 
+
+DIST C: 4.47 m 
+
+DIST A: 7.43 m 
+
+DIST B: 2.76 m 
+
+DIST C: 4.34 m 
+
+DIST A: 6.51 m 
+
+DIST B: 3.53 m 
+
+DIST C: 3.52 m 
+
+DIST A: 6.04 m 
+
+DIST B: 3.31 m 
+
+DIST C: 2.08 m 
+
+DIST A: 6.93 m 
+
+DIST B: 2.53 m 
+
+DIST C: 1.63 m 
+
+DIST A: 8.18 m 
+
+DIST B: 1.73 m 
+
+DIST C: 1.87 m 
+
+DIST A: 8.44 m 
+
+DIST B: 1.57 m 
+
+DIST C: 1.46 m 
+
+DIST A: 7.73 m 
+
+DIST B: 2.85 m 
+
+DIST C: 1.56 m 
+
+DIST A: 6.47 m 
+
+DIST B: 3.87 m 
+
+DIST C: 3.09 m 
+
+DIST A: 4.87 m 
+
+DIST B: 5.16 m 
+
+DIST C: 4.78 m 
+
+DIST A: 3.58 m 
+
+DIST B: 7.13 m 
+
+DIST C: 6.83 m 
+
+DIST A: 1.95 m 
+
+DIST B: 8.78 m 
+
+DIST C: 8.73 m 
+
+DIST A: 1.37 m 
+
+DIST B: 8.34 m 
+
+DIST C: 7.00 m 
+
+DIST A: 2.12 m 
+
+DIST B: 7.70 m 
+
+DIST C: 6.60 m 
+
+DIST A: 2.20 m 
+
+DIST B: 7.52 m 
+
+DIST C: 6.25 m 
+
+DIST A: 2.58 m 
+
+DIST B: 8.19 m 
+
+DIST C: 7.53 m 
+
+DIST A: 5.15 m 
+
+DIST B: 7.88 m 
+
+DIST C: 8.14 m 
+
+DIST A: 3.16 m 
+
+DIST B: 7.58 m 
+
+DIST C: 8.59 m 
+
+DIST A: 1.58 m 
+
+DIST B: 8.63 m 
+
+DIST C: 10.40 m 
